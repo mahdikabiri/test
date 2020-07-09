@@ -16,6 +16,7 @@ public class MainActivity extends AppCompatActivity {
     
     public void fun1(){
     //say hellowqqqq
+    //say good
     }
     
         
