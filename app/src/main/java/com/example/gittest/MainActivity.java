@@ -14,7 +14,9 @@ public class MainActivity extends AppCompatActivity {
         //test for push
     }
     
-    public void fun1(){}
+    public void fun1(){
+    //say hellow
+    }
     
         
 }
