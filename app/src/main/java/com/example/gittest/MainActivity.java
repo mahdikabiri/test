@@ -10,14 +10,13 @@ public class MainActivity extends AppCompatActivity {
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
-        //salaaaam
+    //salaaaam
         //test for push
-
     }
-
-    public void fun1() {
-        //say goodbye
+    
+    public void fun1(){
+    //say hellow
     }
-
-
+    
+        
 }
